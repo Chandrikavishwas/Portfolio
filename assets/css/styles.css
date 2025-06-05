@@ -317,6 +317,7 @@ span{
 
 .project_img {
   padding: 0.2rem;
+  
 }
 .project_icon_container {
   display: flex;
@@ -420,6 +421,7 @@ span{
   background-color: var(--container-color);
 }
 .skills__container {
+  
   padding-bottom: 2rem;
   row-gap: 3.5rem;
 }
@@ -565,8 +567,8 @@ overflow: hidden;
  border: 4px solid var(--first-color);
  object-fit: cover;
  border-radius: 15px;
- width: 100%;
- height: 100%;
+ width: 90%;
+ height: 90%;
 }
 
 .mobile {
